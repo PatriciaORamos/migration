@@ -1,4 +1,4 @@
-# 🛠️ Migration Runner
+# 🛠️ Migration
 
 Este projeto Java com Spring Boot tem como objetivo gerenciar alterações de banco de dados de forma manual e controlada por código. Ele executa scripts DDL e DML definidos como classes Java, e garante que cada script seja aplicado apenas uma vez, registrando seu ID no banco de dados.
 
